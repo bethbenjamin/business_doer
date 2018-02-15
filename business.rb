@@ -1,5 +1,5 @@
 class Business
   def perform
-    "Business"
+    "business"
   end
 end
